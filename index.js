@@ -1,3 +1,3 @@
-var string = "Hello, Arleigh"
+var string = "Hello, Arleigh."
 
 console.log(string);
